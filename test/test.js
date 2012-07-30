@@ -1,6 +1,6 @@
 var assert = require("assert"),
-  fs = require('fs'),
   expect = require('expect.js'),
+  fs = require('fs'),
   Convert = require('../');
 
 var inputData = [{

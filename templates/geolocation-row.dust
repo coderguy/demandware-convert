@@ -1,0 +1,6 @@
+<geolocation postal-code="{postalcode}">
+  <city xml:lang="x-default">{city}</city>
+  <state xml:lang="x-default">{state}</state>
+  <longitude>{longitude}</longitude>
+  <latitude>{latitude}</latitude>
+</geolocation>

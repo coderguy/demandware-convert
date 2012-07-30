@@ -1,0 +1,2 @@
+postalCode city  state longitude  latitude
+05661 MORRISVILLE VT  -72.615346  44.560179
