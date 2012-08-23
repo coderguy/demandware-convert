@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/coderguy/demandware-convert.png)](http://travis-ci.org/coderguy/demandware-convert)
 # demandware-convert
 
 Transform CVS/TSV files into Demandware XML files.
